@@ -224,7 +224,7 @@ class _MyHomePageState extends State<MyHomePage> {
           getRegistry();
         },
         tooltip: 'Validar rondero',
-        child: Icon(Icons.add),
+        child: Icon(Icons.search),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
